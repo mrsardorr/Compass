@@ -5,6 +5,9 @@
 	.header-style-two .main-menu{
 		padding-left:60px; 
 	}
+	.main-header.header-style-three .header-lower .logo-box{
+		position:relative;
+	}
 	
 }
 
